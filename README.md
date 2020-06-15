@@ -5,8 +5,8 @@ In order to reproduce the results in the paper, we recommend cloning this reposi
 Note that using a newer version of Fairseq might result in compatibility issues.
 
 ## Installation 
-* [PyTorch](http://pytorch.org/) version 1.5.0
-* Python version 3.7.6
+* [PyTorch](http://pytorch.org/) version 1.2.0
+* Python version 3.7.3
 
 * Install this repository:
 ```bash
